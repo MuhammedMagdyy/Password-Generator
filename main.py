@@ -46,7 +46,7 @@ def generatePassword():
         password.set(last_password)
 
 
-# Function to create a text file and save the data to it
+# Function to create a text file and save the data
 def saveFile():
     file = filedialog.asksaveasfile(defaultextension='.txt', filetypes=[
         ("Text File", ".txt"),
