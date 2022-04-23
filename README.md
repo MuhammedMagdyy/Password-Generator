@@ -4,7 +4,7 @@ After clicking on `Generate` button, The password will be created randomly from 
 Also, After clicking on `Save` button, The program generates a text file that has **Creation date of the file**, **Password usage**, and **The password**. So, the user can save the file to any folder he wants.
 And finally, After saving, The password is transferring to the clipboard.
 
-## Requirments
+## How to Run
 You can colne the project by using this command on `CMD`
 ```
 git clone https://github.com/MuhammedMagdyy/Password-Generator.git
